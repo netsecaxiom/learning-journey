@@ -1,0 +1,10 @@
+# nyambung dr kemaren
+# db sqlite, cek /tmp/ aja
+#
+# inget struktur tabelnya:
+#   users -> id, username, password, is_admin
+#
+# akun buat test: 084e0343a0486ff05530df6c705c8bb4 / 6b93ccba414ac1d0ae1e77f3fac560c748a6701ed6946735a49d463351518e16
+# atmin akun jgn diutak-atik!!
+# file ini jgn lupa dibersihin ya sblm naik
+# - dev junior

@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  comnetics-portal:
+    build: .
+    container_name: comnetics-secret-portal
+    ports:
+      - "127.0.0.1:9007:80"
+    environment:
+      CTF_FLAG: "FLAG{comnetics_cookiemanipulationsql1_26}"
+    restart: unless-stopped
